@@ -1,2 +1,2 @@
 ERD:
-> ![ERD(public/ERD.png)
+![ERD](public/ERD.png)
